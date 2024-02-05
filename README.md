@@ -1,4 +1,4 @@
-# Portfolio Academico
+# Portfólio Academico
  
 Portfólio acadêmico de projetos e estudos produzidos para disciplinas durante minha graduação em Ciência da Computação na Universidade Presbiteriana Mackenzie.
 
